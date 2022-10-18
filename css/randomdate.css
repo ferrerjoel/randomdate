@@ -1,0 +1,45 @@
+html {
+    background-color: #424549;
+}
+
+.page{
+    display: flex;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: 	#424549;
+    max-width: fit-content;
+}
+
+#dropdown {
+    font-size: 150%;
+    height: 33px;
+}
+.clickablesBox{
+    margin-top: 20px;
+}
+
+.button{
+    margin-right: 2px;
+    margin-left: 2px;
+    font-size: 150%;
+    height: 33px;
+}
+
+.dateBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #7289da;
+    margin: 20px;
+    width: 400px;
+    min-height: 200px;
+    border-style: solid;
+    font-size: 120%;
+}
